@@ -1,4 +1,4 @@
-### Hey, I'm Patrick 👋
+### Hey, I'm Patrick César 👋
 
 - 🔭 I’m currently working on IT Support.
 - 🌱 I’m currently learning JavaScript.
