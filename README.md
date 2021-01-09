@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning JavaScript.
 - 📫 How to reach me: @ptrickcesar
 - 😄 Pronouns: His/Him.
-- ⚡ Fun fact: I'm 28. but I look like 18. 
+- ⚡ Fun fact: I'm 28 but I look like 18. 
